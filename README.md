@@ -29,13 +29,13 @@ In an era that has advanced technology and a place in the world. Everything can 
 To deploy this project run
 
 ```bash
-  - Install XAMPP if not available
-  Establish connection to Apache and MySql server
-  Open any Browser and type localhost in the search site
-  Click on PHPMyAdmin
-  Create the database with the same name mentioned in the SQL file
-  Import the Sql file in the particular database
-  Open an new tab or Window -> In the Search Site type localhost/project_name
-  The project will run as a whole.
-  User can perform any operation available in the project and the same will be reflected.
+  -> Install XAMPP if not Installed on the device.
+  -> Establish connection to Apache and MySql server.
+  -> Open any Browser and type localhost in the search site.
+  -> Click on PHPMyAdmin.
+  -> Create the database with the same name mentioned in the SQL file.
+  -> Import the Sql file to PHPMyAdmin from local file.
+  -> Open an new tab or Window in the browser -> In the Search Site type localhost/project_name
+  -> The project will run as a whole.
+ ->  User can perform any operation available in the project and the same will be reflected.
 ```
