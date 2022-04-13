@@ -13,7 +13,7 @@ First an user has to create an account to login and access the website, later th
  - User can view different stores and several books.
  - User can update store details and also delete the store
  - Book Id, name and description are from Google API.
- =>```bash
+ - ```bash
    Features of the project
    * List of all stores for the user
    * List out all the books in inventory inside the store.
@@ -21,9 +21,8 @@ First an user has to create an account to login and access the website, later th
    * Add a new book.
    * Update inventory for an existing book.
    * Remove from the inventory.
-```
+   ```
  
-
 
 
 ## Assumptions
