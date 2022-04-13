@@ -1,4 +1,4 @@
-# cr_book_inventory_mgmt
+# cr_book_inventory_mgmt_phpproject
 
 # Book Inventory Management
 
