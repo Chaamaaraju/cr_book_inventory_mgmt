@@ -50,17 +50,17 @@ To deploy this project run
 ## Bibilography
 
   ```bash
-  w3schools
+  W3Schools
   ```
   
   ```bash
- tutorialspoint
+ Tutorialspoint
   ```
   
   ```bash
-  mysqltutorial
+  MySQLtutorials
   ```
 
   ```bash
-  apachefriends
+  Apachefriends
   ```
