@@ -29,7 +29,7 @@ In an era that has advanced technology and a place in the world. Everything can 
 To deploy this project run
 
 ```bash
-  Install XAMPP if not available
+  - Install XAMPP if not available
   Establish connection to Apache and MySql server
   Open any Browser and type localhost in the search site
   Click on PHPMyAdmin
