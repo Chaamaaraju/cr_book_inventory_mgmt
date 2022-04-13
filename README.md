@@ -1,5 +1,4 @@
 # cr_book_inventory_mgmt
-Book Inventory Management System
 
 # Book Inventory Management
 
