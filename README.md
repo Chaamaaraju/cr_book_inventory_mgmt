@@ -37,5 +37,5 @@ To deploy this project run
   -> Import the Sql file to PHPMyAdmin from local file.
   -> Open an new tab or Window in the browser -> In the Search Site type localhost/project_name
   -> The project will run as a whole.
-  ->  User can perform any operation available in the project and the same will be reflected.
+  -> User can perform any operation available in the project and the same will be reflected.
 ```
